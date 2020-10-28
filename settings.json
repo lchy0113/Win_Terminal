@@ -262,7 +262,7 @@
         				"cursorHeight" : 25,
         				"cursorShape" : "vintage",
         				"fontFace" : "Ubuntu Mono derivative Powerline",
-        				"fontSize" : 12,
+        				"fontSize" : 10,
         				"source": "Windows.Terminal.Wsl",
         				"historySize" : 9001,
         				"snapOnInput" : true,
@@ -278,9 +278,14 @@
                 "hidden": false
             },
             {
+                // Make changes heare to the Ubuntu profile.
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
                 "name": "Ubuntu",
+                "colorScheme": "Campbell",
+                "fontFace": "Cascadia Code",
+                "fontSize": 10,
+                "padding": "15, 15, 15, 15",
                 "source": "Windows.Terminal.Wsl"
             },
             {
@@ -298,7 +303,7 @@
       				"cursorHeight" : 25,
       				"cursorShape" : "vintage",
       				"fontFace" : "Ubuntu Mono derivative Powerline",
-      				"fontSize" : 12,
+      				"fontSize" : 10,
       				"hidden": false,
       				"name": "WSL",
       				"source": "Windows.Terminal.Wsl",
@@ -321,7 +326,7 @@
       				"backgroundImage" : "C:/users/woongahkim/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/giphy.gif",
       				"backgroundImageOpacity" : 0.69999998807907104,
       				"backgroundImageStretchMode" : "uniformToFill",
-      				"fontSize" : 12,
+      				"fontSize" : 10,
       				"hidden": false,
       				"name": "WSL with background",
       				"historySize" : 9001,
