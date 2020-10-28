@@ -13,10 +13,10 @@
     "copyOnSelect": true,
     "initialCols" : 120,
     "initialRows" : 30,
-    "keybindings" : 
+    "keybindings" :
     [
-        { 
-            "command": "splitHorizontal", 
+        {
+            "command": "splitHorizontal",
             "keys": [
                 "ctrl+-"
                 ]
@@ -29,205 +29,205 @@
             },
         {
             "command" : "duplicateTab",
-            "keys" : 
+            "keys" :
             [
                 "ctrl+d"
             ]
         },
         {
             "command" : "closeTab",
-            "keys" : 
+            "keys" :
             [
                 "ctrl+w"
             ]
         },
-		{
-			"command" : "newTab",
-			"keys" : 
-			[
-				"ctrl+t"
-			]
-		},
-		{
-			"command" : "newTabProfile0",
-			"keys" : 
-			[
-				"ctrl+shift+1"
-			]
-		},
-		{
-			"command" : "newTabProfile1",
-			"keys" : 
-			[
-				"ctrl+shift+2"
-			]
-		},
-		{
-			"command" : "newTabProfile2",
-			"keys" : 
-			[
-				"ctrl+shift+3"
-			]
-		},
-		{
-			"command" : "newTabProfile3",
-			"keys" : 
-			[
-				"ctrl+shift+4"
-			]
-		},
-		{
-			"command" : "newTabProfile4",
-			"keys" : 
-			[
-				"ctrl+shift+5"
-			]
-		},
-		{
-			"command" : "newTabProfile5",
-			"keys" : 
-			[
-				"ctrl+shift+6"
-			]
-		},
-		{
-			"command" : "newTabProfile6",
-			"keys" : 
-			[
-				"ctrl+shift+7"
-			]
-		},
-		{
-			"command" : "newTabProfile7",
-			"keys" : 
-			[
-				"ctrl+shift+8"
-			]
-		},
-		{
-			"command" : "newTabProfile8",
-			"keys" : 
-			[
-				"ctrl+shift+9"
-			]
-            },
-		{
-			"command" : "nextTab",
-			"keys" : 
-			[
-				"ctrl+tab"
-			]
-		},
-		{
-			"command" : "openSettings",
-			"keys" : 
-			[
-				"ctrl+,"
-			]
-		},
-		{
-			"command" : "prevTab",
-			"keys" : 
-			[
-				"ctrl+shift+tab"
-			]
-		},
-		{
-			"command" : "scrollDown",
-			"keys" : 
-			[
-				"ctrl+shift+down"
-			]
-		},
-		{
-			"command" : "scrollDownPage",
-			"keys" : 
-			[
-				"ctrl+shift+pgdn"
-			]
-		},
-		{
-			"command" : "scrollUp",
-			"keys" : 
-			[
-				"ctrl+shift+up"
-			]
-		},
-		{
-			"command" : "scrollUpPage",
-			"keys" : 
-			[
-				"ctrl+shift+pgup"
-			]
-		},
-		{
-			"command" : "switchToTab0",
-			"keys" : 
-			[
-				"alt+1"
-			]
-		},
-		{
-			"command" : "switchToTab1",
-			"keys" : 
-			[
-				"alt+2"
-			]
-		},
-		{
-			"command" : "switchToTab2",
-			"keys" : 
-			[
-				"alt+3"
-			]
-		},
-		{
-			"command" : "switchToTab3",
-			"keys" : 
-			[
-				"alt+4"
-			]
-		},
-		{
-			"command" : "switchToTab4",
-			"keys" : 
-			[
-				"alt+5"
-			]
-		},
-		{
-			"command" : "switchToTab5",
-			"keys" : 
-			[
-				"alt+6"
-			]
-		},
-		{
-			"command" : "switchToTab6",
-			"keys" : 
-			[
-				"alt+7"
-			]
-		},
-		{
-			"command" : "switchToTab7",
-			"keys" : 
-			[
-				"alt+8"
-			]
-		},
-		{
-			"command" : "switchToTab8",
-			"keys" : 
-            [
-                "alt+9"
-            ]
-		}
+    		{
+      			"command" : "newTab",
+      			"keys" :
+      			[
+      				"ctrl+t"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile0",
+      			"keys" :
+      			[
+      				"ctrl+shift+1"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile1",
+      			"keys" :
+      			[
+      				"ctrl+shift+2"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile2",
+      			"keys" :
+      			[
+      				"ctrl+shift+3"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile3",
+      			"keys" :
+      			[
+      				"ctrl+shift+4"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile4",
+      			"keys" :
+      			[
+      				"ctrl+shift+5"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile5",
+      			"keys" :
+      			[
+      				"ctrl+shift+6"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile6",
+      			"keys" :
+      			[
+      				"ctrl+shift+7"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile7",
+      			"keys" :
+      			[
+      				"ctrl+shift+8"
+      			]
+    		},
+    		{
+      			"command" : "newTabProfile8",
+      			"keys" :
+      			[
+      				"ctrl+shift+9"
+      			]
+        },
+    		{
+      			"command" : "nextTab",
+      			"keys" :
+      			[
+      				"ctrl+tab"
+      			]
+    		},
+    		{
+      			"command" : "openSettings",
+      			"keys" :
+      			[
+      				"ctrl+,"
+      			]
+    		},
+    		{
+      			"command" : "prevTab",
+      			"keys" :
+      			[
+      				"ctrl+shift+tab"
+      			]
+    		},
+    		{
+      			"command" : "scrollDown",
+      			"keys" :
+      			[
+      				"ctrl+shift+down"
+      			]
+    		},
+    		{
+      			"command" : "scrollDownPage",
+      			"keys" :
+      			[
+      				"ctrl+shift+pgdn"
+      			]
+    		},
+    		{
+      			"command" : "scrollUp",
+      			"keys" :
+      			[
+      				"ctrl+shift+up"
+      			]
+    		},
+    		{
+      			"command" : "scrollUpPage",
+      			"keys" :
+      			[
+      				"ctrl+shift+pgup"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab0",
+      			"keys" :
+      			[
+      				"alt+1"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab1",
+      			"keys" :
+      			[
+      				"alt+2"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab2",
+      			"keys" :
+      			[
+      				"alt+3"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab3",
+      			"keys" :
+      			[
+      				"alt+4"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab4",
+      			"keys" :
+      			[
+      				"alt+5"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab5",
+      			"keys" :
+      			[
+      				"alt+6"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab6",
+      			"keys" :
+      			[
+      				"alt+7"
+      			]
+    		},
+    		{
+      			"command" : "switchToTab7",
+      			"keys" :
+      			[
+      				"alt+8"
+      			]
+    		},
+    		{
+    			"command" : "switchToTab8",
+    			"keys" :
+          [
+            "alt+9"
+          ]
+    		}
     ],
     "requestedTheme" : "system",
     "showTabsInTitlebar" : true,
     "showTerminalTitleInTitlebar" : true,
-		
+
     // You can add more global application settings here.
     // To learn more about global settings, visit https://aka.ms/terminal-global-settings
 
@@ -255,20 +255,20 @@
                 "name": "Windows PowerShell",
                 "commandline": "powershell.exe",
                 "hidden": false,
-				"acrylicOpacity" : 0.65000002384185791,
-				"colorScheme": "One Half Dark",
-				"closeOnExit" : false,
-				"cursorColor" : "#00FF00",
-				"cursorHeight" : 25,
-				"cursorShape" : "vintage",
-				"fontFace" : "Ubuntu Mono derivative Powerline",
-				"fontSize" : 12,
-				"source": "Windows.Terminal.Wsl",
-				"historySize" : 9001,
-				"snapOnInput" : true,
-				"startingDirectory" : "%USERPROFILE%",
-				"useAcrylic" : true,
-				"padding" : "20, 10, 20, 20"
+        				"acrylicOpacity" : 0.65000002384185791,
+        				"colorScheme": "One Half Dark",
+        				"closeOnExit" : false,
+        				"cursorColor" : "#00FF00",
+        				"cursorHeight" : 25,
+        				"cursorShape" : "vintage",
+        				"fontFace" : "Ubuntu Mono derivative Powerline",
+        				"fontSize" : 12,
+        				"source": "Windows.Terminal.Wsl",
+        				"historySize" : 9001,
+        				"snapOnInput" : true,
+        				"startingDirectory" : "%USERPROFILE%",
+        				"useAcrylic" : true,
+        				"padding" : "20, 10, 20, 20"
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -289,54 +289,54 @@
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             },
-			{
-				"guid": "{6e9fa4d2-a4aa-562d-b1fa-0789dc1f83d7}",
-				"acrylicOpacity" : 0.65000002384185791,
-				"colorScheme": "One Half Dark",
-				"closeOnExit" : false,
-				"cursorColor" : "#00FF00",
-				"cursorHeight" : 25,
-				"cursorShape" : "vintage",
-				"fontFace" : "Ubuntu Mono derivative Powerline",
-				"fontSize" : 12,
-				"hidden": false,
-				"name": "WSL",
-				"source": "Windows.Terminal.Wsl",
-				"historySize" : 9001,
-				"snapOnInput" : true,
-				"startingDirectory" : "%USERPROFILE%",
-				"useAcrylic" : true,
-				"padding" : "20, 10, 20, 20"
-			},
-			{
-				"guid": "{6c1aaa40-34cc-4087-94c2-47404074a136}",
-				"acrylicOpacity" : 0.65000002384185791,
-				"colorScheme": "One Half Dark",
-				"closeOnExit" : false,
-				"cursorColor" : "#00FF00",
-				"cursorHeight" : 25,
-				"cursorShape" : "vintage",
-				"fontFace" : "Ubuntu Mono derivative Powerline",
-				"icon" : "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
-				"backgroundImage" : "C:/users/woongahkim/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/giphy.gif",
-				"backgroundImageOpacity" : 0.69999998807907104,
-				"backgroundImageStretchMode" : "uniformToFill",
-				"fontSize" : 12,
-				"hidden": false,
-				"name": "WSL with background",
-				"historySize" : 9001,
-				"snapOnInput" : true,
-				"startingDirectory" : "%USERPROFILE%",
-				"useAcrylic" : true,
-				"padding" : "20, 10, 20, 20",
-				"commandline": "wsl"
-			}
+      			{
+      				"guid": "{6e9fa4d2-a4aa-562d-b1fa-0789dc1f83d7}",
+      				"acrylicOpacity" : 0.65000002384185791,
+      				"colorScheme": "One Half Dark",
+      				"closeOnExit" : false,
+      				"cursorColor" : "#00FF00",
+      				"cursorHeight" : 25,
+      				"cursorShape" : "vintage",
+      				"fontFace" : "Ubuntu Mono derivative Powerline",
+      				"fontSize" : 12,
+      				"hidden": false,
+      				"name": "WSL",
+      				"source": "Windows.Terminal.Wsl",
+      				"historySize" : 9001,
+      				"snapOnInput" : true,
+      				"startingDirectory" : "%USERPROFILE%",
+      				"useAcrylic" : true,
+      				"padding" : "20, 10, 20, 20"
+      			},
+      			{
+      				"guid": "{6c1aaa40-34cc-4087-94c2-47404074a136}",
+      				"acrylicOpacity" : 0.65000002384185791,
+      				"colorScheme": "One Half Dark",
+      				"closeOnExit" : false,
+      				"cursorColor" : "#00FF00",
+      				"cursorHeight" : 25,
+      				"cursorShape" : "vintage",
+      				"fontFace" : "Ubuntu Mono derivative Powerline",
+      				"icon" : "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
+      				"backgroundImage" : "C:/users/woongahkim/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/giphy.gif",
+      				"backgroundImageOpacity" : 0.69999998807907104,
+      				"backgroundImageStretchMode" : "uniformToFill",
+      				"fontSize" : 12,
+      				"hidden": false,
+      				"name": "WSL with background",
+      				"historySize" : 9001,
+      				"snapOnInput" : true,
+      				"startingDirectory" : "%USERPROFILE%",
+      				"useAcrylic" : true,
+      				"padding" : "20, 10, 20, 20",
+      				"commandline": "wsl"
+      			}
         ]
     },
 
     // Add custom color schemes to this array.
     // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
-    "schemes" : 
+    "schemes" :
     [
         {
             "background" : "#0C0C0C",
@@ -445,5 +445,3 @@
         }
     ]
 }
-
-
